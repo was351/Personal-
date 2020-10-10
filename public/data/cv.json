@@ -1,0 +1,68 @@
+{
+    "name": "Anam Hira",
+    "bio": "Studying Computer Science at the University of British Columbia",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "name": "CryptoLedge",
+            "from": "2017-05",
+            "to": "2018-08",
+            "location": "Online",
+            "description": " Utilized multiple trading indicators and machine learning libraries to run sentiment analysis on a multitude of social media platforms.",
+            "avatar": "./logos/cryptoledge.png"
+        },
+        {
+            "title": "Farmer",
+            "name": "Hira Farms",
+            "from": "2014-02",
+            "to": "2020-09",
+            "location": "Victoria, BC, Canada",
+            "description": "Worked as a part time farmer, also helping wtih deliveries to local businesses",
+            "avatar": "./logos/greenhouse.jpg"
+        }
+
+    ],
+    "education": [
+        {
+            "name": "Bachelor of Science, Computer Science",
+            "title": "University of British Columbia",
+            "from": "2023",
+            "to": "2019",
+            "location": "Vancouver British Columbia, Canada",
+            "avatar": "./logos/ubc.jpg"
+        },
+        {
+            "name": "High School Diploma",
+            "title": "Spectrum Community High School",
+            "from": "2019",
+            "to": "2014",
+            "location": "Victoria, British Columbia, Canada",
+            "avatar": "./logos/spectrum.jpg"
+        }
+    ],
+    "volunteer": [
+        {
+            "name": "Developer",
+            "title": "KDS of Victoria",
+            "from": "2016-02",
+            "to": "2016-05",
+            "location": "Victoria, BC, Canada",
+            "description": "Created website for the Khalsa Diwan society of victoria in order to increase community outreach and help with awareness."
+        }
+    ],
+    "researches": [
+        {
+            "title": "Fulfilling micronutrient needs as a vegan/vegetarian to optimize hormone levels.",
+            "abstract": "Investigating measures an individual can take to completely optimize hormone levels utilizing a complete micronutrient profile. Aswell as taking additional supplements to aid in completely optimizing energy and hormone levels to aid in increased energy and mood throughout the day.",
+
+
+            "authors": [
+                {
+                    "name": "Anam Hira",
+                    "avatar": "./avatars/anam.jpg"
+                }
+            ],
+            "org": "Personal"
+        }
+    ]
+}

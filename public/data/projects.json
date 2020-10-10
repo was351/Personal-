@@ -1,0 +1,29 @@
+{
+    "projects": [
+        {
+            "type": "tools",
+            "count": 0,
+            "repos": [
+                "portfolio-manager",
+                "APTFitnessTracker",
+                "tradingview-scraper",
+                "Finesse-Coin",
+                "yeezy-anam",
+                "Web-SSH-With-Login"
+
+            ],
+            "details": []
+        },
+        {
+            "type": "Design",
+            "count": 0,
+            "repos": [
+                "material-ecommerce-template",
+                "Material-Design-Resume-Template"
+
+
+            ],
+            "details": []
+        }
+    ]
+}
